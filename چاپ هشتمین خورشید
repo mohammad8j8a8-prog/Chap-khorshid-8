@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>چاپ هشتمین خورشید</title>
+
+<style>
+body{
+    font-family:tahoma;
+    background:#f5f5f5;
+    margin:0;
+    padding:20px;
+}
+.card{
+    max-width:420px;
+    margin:auto;
+    background:white;
+    border-radius:20px;
+    padding:20px;
+    text-align:center;
+    box-shadow:0 0 15px rgba(0,0,0,.2);
+}
+img{
+    width:180px;
+    margin-bottom:15px;
+}
+h2{
+    color:#222;
+}
+.btn{
+    display:block;
+    text-decoration:none;
+    color:white;
+    padding:15px;
+    margin-top:12px;
+    border-radius:10px;
+    font-size:18px;
+}
+.call{background:#28a745;}
+.balad{background:#f4b400;color:#000;}
+.neshan{background:#111;}
+</style>
+
+</head>
+
+<body>
+
+<div class="card">
+
+<img src="logo.jpg">
+
+<h2>چاپ هشتمین خورشید</h2>
+
+<a class="btn call" href="tel:09223053520">
+📞 تماس با ما
+</a>
+
+<a class="btn balad" href="https://balad.ir/p/30.237981,49.711590">
+🗺️ مسیریابی با بلد
+</a>
+
+<a class="btn neshan" href="https://neshan.org/maps?lat=30.237981&lng=49.711590">
+📍 مسیریابی با نشان
+</a>
+
+</div>
+
+</body>
+</html>
